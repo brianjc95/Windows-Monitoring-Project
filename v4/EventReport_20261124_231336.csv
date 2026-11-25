@@ -1,0 +1,49 @@
+"LogName","TimeCreated","EventID","Source","Severity","Message"
+"System","11/24/2026 1:56:09 PM","10010","Microsoft-Windows-DistributedCOM","Error","The server {B91D5831-B1BD-4608-8198-D72E155020F7} did not register with DCOM within the required timeout."
+"System","11/24/2026 1:53:59 PM","7022","Service Control Manager","Error","The User Access Logging Service service hung on starting."
+"System","11/24/2026 1:50:14 PM","7000","Service Control Manager","Error","The Active Directory Web Services service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:50:14 PM","7009","Service Control Manager","Error","A timeout was reached (30000 milliseconds) while waiting for the Active Directory Web Services service to connect."
+"System","11/24/2026 1:49:33 PM","7000","Service Control Manager","Error","The Microsoft Edge Update Service (edgeupdate) service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:49:33 PM","7009","Service Control Manager","Error","A timeout was reached (30000 milliseconds) while waiting for the Microsoft Edge Update Service (edgeupdate) service to connect."
+"System","11/24/2026 1:48:44 PM","7000","Service Control Manager","Error","The Active Directory Web Services service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:48:44 PM","7009","Service Control Manager","Error","A timeout was reached (30000 milliseconds) while waiting for the Active Directory Web Services service to connect."
+"System","11/24/2026 1:47:13 PM","7000","Service Control Manager","Error","The Active Directory Web Services service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:47:13 PM","7009","Service Control Manager","Error","A timeout was reached (30000 milliseconds) while waiting for the Active Directory Web Services service to connect."
+"System","11/24/2026 1:46:18 PM","7000","Service Control Manager","Error","The ADWS service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:46:18 PM","7009","Service Control Manager","Error","A timeout was reached (45000 milliseconds) while waiting for the ADWS service to connect."
+"System","11/24/2026 1:44:57 PM","7023","Service Control Manager","Error","The NcbService service terminated with the following error: 
+A device attached to the system is not functioning."
+"System","11/24/2026 1:40:52 PM","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"System","11/24/2026 1:44:28 PM","6008","EventLog","Error","The previous system shutdown at 1:32:25 PM on ?11/?24/?2026 was unexpected."
+"System","11/24/2026 1:31:31 PM","7000","Service Control Manager","Error","The ADWS service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"System","11/24/2026 1:31:31 PM","7009","Service Control Manager","Error","A timeout was reached (45000 milliseconds) while waiting for the ADWS service to connect."
+"System","11/24/2026 1:30:46 PM","7023","Service Control Manager","Error","The NcbService service terminated with the following error: 
+A device attached to the system is not functioning."
+"System","11/24/2026 1:29:05 PM","41","Microsoft-Windows-Kernel-Power","Critical","The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly."
+"System","11/24/2026 1:30:24 PM","6008","EventLog","Error","The previous system shutdown at 10:26:33 PM on ?11/?23/?2026 was unexpected."
+"Application","11/24/2026 2:08:55 PM","1002","Application Hang","Error","The program TextInputHost.exe version 2010.1012.0.10351 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+ Process ID: 454
+ Start Time: 01dd7c4719ebd5eb
+ Termination Time: 4294967295
+ Application Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+ Report Id: fba4fda8-0991-4b12-b5da-a501f69e25ef
+ Faulting package full name: MicrosoftWindows.Client.CBS_120.27512.10351.0_x64__cw5n1h2txyewy
+ Faulting package-relative application ID: InputApp
+ Hang type: Cross-thread
+"
+"Application","11/24/2026 2:06:48 PM","1002","Application Hang","Error","The program TextInputHost.exe version 2010.1012.0.10351 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+ Process ID: 600
+ Start Time: 01dd7c46cc6ec346
+ Termination Time: 4294967295
+ Application Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+ Report Id: 8eb49a40-57f0-4e97-8478-5e7537043de2
+ Faulting package full name: MicrosoftWindows.Client.CBS_120.27512.10351.0_x64__cw5n1h2txyewy
+ Faulting package-relative application ID: InputApp
+ Hang type: Activation
+"

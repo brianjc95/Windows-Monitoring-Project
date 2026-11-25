@@ -1,0 +1,39 @@
+============================================
+       WINDOWS SERVER HEALTH REPORT
+============================================
+Server: DC01
+Date:   11/24/2026 23:13:31
+Overall Status: REVIEW
+
+HEALTH SUMMARY
+--------------------------------------------
+Healthy Components:  13
+Review Components:   2
+Critical Components: 0
+Warning Components:  0
+Not Found Components: 0
+
+SYSTEM HEALTH
+--------------------------------------------
+
+
+Component              Usage                             Status 
+---------              -----                             ------ 
+CPU                    28%                               HEALTHY
+Memory                 64.22%                            HEALTHY
+Disk C:                44.66%                            HEALTHY
+Service: NTDS          Running                           HEALTHY
+Service: DNS           Running                           HEALTHY
+Service: Netlogon      Running                           HEALTHY
+Service: KDC           Running                           HEALTHY
+Service: ADWS          Running                           HEALTHY
+Service: W32Time       Running                           HEALTHY
+Event Log: System      20 Events | 2 Critical | 18 Error REVIEW 
+Event Log: Application 2 Events | 0 Critical | 2 Error   REVIEW 
+Network Gateway        192.168.1.1                       HEALTHY
+External Connectivity  8.8.8.8                           HEALTHY
+External DNS           google.com resolved               HEALTHY
+AD DNS Discovery       dc01.companyx.local               HEALTHY
+
+
+
